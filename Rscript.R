@@ -6,7 +6,7 @@
 # ---
 
 # load libraries:
-  library(lattice)
+  library(ggplot)
 # ---
 
 # load data:
