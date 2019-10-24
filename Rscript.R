@@ -1,4 +1,4 @@
-# author: SC
+# author: Marion
 # project: github tutorial
 # ---
 
